@@ -1,0 +1,15 @@
+# .NET build output
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+.vs/
+
+# Dependencies
+packages/
+node_modules/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
