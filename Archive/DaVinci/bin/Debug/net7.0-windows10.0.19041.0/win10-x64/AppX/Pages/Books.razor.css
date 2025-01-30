@@ -1,0 +1,97 @@
+﻿h1 {
+    text-align: center;
+    font-weight: bold;
+    color: saddlebrown;
+    padding-bottom: 30px;
+}
+
+.menu-options {
+    font-size: 24px;
+    font-weight: bolder;
+    color: olive;
+}
+
+.search-menu {
+    margin: auto;
+}
+
+/* SEARCH BY TITLE STYLING */
+.search-section {
+    display: block;
+    align-items: center;
+    padding-bottom: 30px;
+}
+
+.search-label, .book-selection-label, .matching-books-label {
+    font-size: 16px;
+    padding-bottom: 10px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.search-input {
+    width: 450px;
+    padding: 5px 0px 5px 0px;
+    text-align: center;
+    border: 1px solid black;
+}
+
+/* SEARCH BY OTHER STYLING */
+.search-selection {
+    display: block;
+    padding-bottom: 50px;
+}
+
+.select-menus {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-right: 100px;
+}
+
+select {
+    width: 200px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+/* SEARCH BUTTON STYLING*/
+.btn {
+    width: 200px;
+    background-color: burlywood;
+    color: saddlebrown;
+    border: none;
+    font-weight: 600;
+}
+
+.search-button {
+    display: flex;
+    justify-content: flex-start;
+}
+
+/* MATCHING BOOKS STYLING */
+
+.matching-books-list {
+    padding-top: 30px;
+}
+
+.book-list-options {
+    width: 450px;
+}
+
+.book-list-options {
+    display: block;
+}
+
+/* DISPLAY BOOK DETAILS */
+
+.book-details {
+    padding-top: 30px;
+}
+
+h2 {
+    text-align: center;
+    font-style: italic;
+    font-size: 30px;
+    color: darkolivegreen;
+}

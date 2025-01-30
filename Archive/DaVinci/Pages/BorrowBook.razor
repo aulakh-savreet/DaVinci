@@ -1,0 +1,95 @@
+﻿@using DaVinci.Data;
+@page "/borrow"
+<h1>Checkout Books</h1>
+
+<div class="book-list">
+    <label class="confirm-books">Confirm book selection:</label>-->
+    @*On click is mainly used on buttons, in this case use onchange*@
+    <select @onchange="ConfirmSelectedBook" value="@isbn">
+        <option value="" disabled>Select a book to add to the selection</option>
+        @if(selectedBooks != null)
+        {
+            foreach (var book in selectedBooks)
+            {
+                <option value="@book.Isbn">@book.Title by @book.AuthorName</option>
+                // will display a list of all the books found from the selected books list created in the Books razor page
+            }
+        }
+        else{
+            <option disabled>NO BOOKS SELECTED</option>
+        }
+    </select>
+
+</div>
+
+<div class="buttons">
+    <div class="remove-button">
+        <button type="button" class="btn btn-danger" @onclick="removeBook">Remove Book(s)</button>
+    </div>
+    <div class="checkout-button">
+        <button type="button" class="btn btn-success" @onclick="checkoutBook">Checkout Book(s)</button>
+    </div>
+</div>
+
+@code{
+    //private variables
+    private string bookId;
+    private string title;
+    private string isbn;
+    private string authorName;
+    private string category;
+    private int quantity;
+    private string language;
+    private Book selectedBook;
+
+    //creating objects fro the book and author manager classes
+    AuthorManager am = new AuthorManager();
+    BooksManager bm = new BooksManager();
+    private List<Book> selectedBooks = BooksManager.GetSelectedBook();
+
+    private List<Book> bookDetails = BooksManager.GetBookDetails();
+
+    //mehtod to conform the the books that were selected
+    private void ConfirmSelectedBook(ChangeEventArgs x)
+    {
+        isbn = x.Value.ToString();
+
+        selectedBook = selectedBooks.FirstOrDefault(s => s.Isbn == isbn);
+
+        if (selectedBook != null)
+        {
+            bookId = selectedBook.BookId;
+            title = selectedBook.Title;
+            isbn = selectedBook.Isbn;
+            authorName = selectedBook.AuthorName;
+            category = selectedBook.Category;
+            quantity = selectedBook.Quantity;
+            language = selectedBook.Language;
+        }
+    }
+
+    //lets the user checkout the books that they have selected
+    List<Book> confirmedBook = new List<Book>();
+    private void checkoutBook()
+    {
+        App.Current.MainPage.DisplayAlert("Thank you", $"Checked out {selectedBook}", "Ok");
+        confirmedBook.Add(selectedBook);
+
+    }
+
+    //permits the user to take back any books they've checked out.
+    private void removeBook()
+    {
+
+        if (selectedBook != null)
+        {
+            selectedBook.Remove();
+            App.Current.MainPage.DisplayAlert("Thank you", $"Removed {selectedBook}", "Ok");
+        }
+        else
+        {
+            App.Current.MainPage.DisplayAlert("Please select a valid book", $"", "Ok");
+        }
+    }
+
+}

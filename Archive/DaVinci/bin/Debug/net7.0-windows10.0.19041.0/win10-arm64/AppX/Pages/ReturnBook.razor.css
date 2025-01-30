@@ -1,0 +1,102 @@
+﻿.PageContent {
+    display: grid;
+    grid-template-areas:
+       /*Heading*/
+        "b c ." 
+        "e f g" 
+        ". h ." 
+        "i . ." 
+        ". j ." 
+        "k k k"; 
+        /*Return button*/
+        min-height: 68vh;
+}
+ 
+
+/*HEADING*/
+
+.PageWidth {
+    width: 70vw;
+}
+
+label {
+    font-size: 25px;
+}
+
+#PatronName {
+    text-align: end;
+    margin-right: 10vw;
+}
+
+
+.searchText {
+    height: 40px;
+    width: 200px;
+    font-size: 15px;
+}
+
+
+
+#searchName {
+    grid-area: b;
+}
+#searchID {
+    grid-area: c;
+}
+#SearchDateBorrowed {
+    grid-area: d;
+}
+
+
+#searchNameTextbox {
+    grid-area: e;
+}
+#searchIDTextbox {
+    grid-area: f;
+}
+#searchDateTextbox {
+    grid-area: g;
+}
+
+
+#returnableBooksTitle {
+    grid-area: h;
+}
+
+
+.borrowedBooks {
+    grid-area: i;
+    width: 45vw; 
+    align-content:start;
+}
+
+
+#returningBooksTitle {
+    grid-area: j;
+    font-size: 20px;
+}
+
+#returningBooks {
+    grid-area: k;
+    font-size: 15px;
+}
+
+
+.date {
+    margin-top: 28vh;
+}
+
+.btn-select {
+
+}
+.add-remove
+{
+    width: 100px;
+}
+
+
+.confirm-btn {
+    font-size: larger;
+    font-weight: bold;
+    
+}
