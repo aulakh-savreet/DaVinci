@@ -1,0 +1,172 @@
+﻿@using DaVinci.Data;
+@page "/books"
+
+<h1 style="text-align:left"><b>Book library</b></h1>
+<br />
+<br />
+
+<!--SEARCH AREA-->
+<div style="display: flex; align-items: center; gap: 10px;">
+    <label style="font-size:larger"><b>Search for the book here:</b></label>
+    <input type="text" aria-label="userinput" class="form-control" style="width: 350px" @bind-value="userSearchInput" />
+</div>
+<br />
+<br />
+
+<!--SELECTION SECTION-->
+<div style="display:flex; align-items:center; gap:10px;">
+    <!--GENRE-->
+
+    <select @bind="selectedGenre">
+        <option>Select a genre:  </option>
+        <option value="any">Any</option>
+        <option value="Fiction">Fiction</option>
+        <option value="Non-fiction">Non-Fiction</option>
+    </select>
+
+    <!--LANGUAGE-->
+
+    <select @bind="selectedLanguage">
+        <option>Select a Language:</option>
+        <option value="Any">Any</option>
+        <option value="English">English</option>
+        <option value="Spanish">Spanish</option>
+        <option value="Irish">Irish</option>
+        <option value="German">German</option>
+        <option value="Russian">Russian</option>
+        <option value="French">French</option>
+    </select>
+</div>
+<br />
+<br />
+
+<button class="btn btn-primary" @onclick="BookFinder">Search</button>
+<br />
+<br />
+
+
+
+<h4 style="text-align:left">Book List</h4>
+<div class="row align-items-center">
+    <div class="col">
+        <label>Books</label>
+        <select @onchange="selectBook" value="@bookId">
+            <option value="">Select a book</option>
+            @if (matchingBooks != null)
+            {
+                foreach (var book in matchingBooks)
+                {
+                    <option value="@book.BookId">
+                        @book.Title by @book.AuthorName
+                    </option>
+                }
+            }
+        </select>
+
+
+    </div>
+</div>
+
+<h2 style="text-align:center"><i>Your book details:</i></h2>
+<div class="mb-3">
+    <input type="text" class="form-control" id="genre" placeholder="@title by @authorName ; Genre:@category ; Print Language: @language ; ISBN: @isbn;" readonly>
+</div>
+
+<button class="btn btn-primary" @onclick="BookReserve">Reserve Book</button>
+<br />
+<br />
+
+
+@code {
+    //constructing every variable that will be used to store the data that the user has chosen or entered
+    private string selectedGenre;
+    private string selectedAuthor;
+    private string selectedLanguage;
+    private string userSearchInput;
+
+    private string bookId;
+    private string title;
+    private string isbn;
+    private string authorName;
+    private string category;
+    private int quantity;
+    private string language;
+
+    private Book selectedBook;
+
+    public string Title { get => title; set => title = value; }
+
+
+    AuthorManager am = new AuthorManager();
+    BooksManager bm = new BooksManager();
+    public static List<Book> booksList = BooksManager.GetBookDetails();
+    public static List<Author> authorList = AuthorManager.GetAuthorDetails();
+    private List<Book> matchingBooks = new List<Book>();
+
+
+    private void BookFinder()
+    {
+        if (string.IsNullOrEmpty(userSearchInput))
+        {
+            App.Current.MainPage.DisplayAlert("Error", "Please enter a book name", "OK");
+            return;
+        }
+
+        try
+        {
+            matchingBooks = BooksManager.FindMatchingBooks(userSearchInput, selectedGenre, selectedAuthor, selectedLanguage, booksList);
+            if (matchingBooks.Count == 0)
+            {
+                App.Current.MainPage.DisplayAlert("Error", "There are no matching books", "Continue");
+
+            }
+        }
+        catch (InvalidBookNameException ex)
+        {
+            App.Current.MainPage.DisplayAlert("Invalid", "Please press continue", "Continue");
+        }
+    }
+
+    private void selectBook(ChangeEventArgs x)
+    {
+        bookId = x.Value.ToString();
+
+        selectedBook = matchingBooks.FirstOrDefault(b => b.BookId == bookId);
+
+        if (selectedBook != null)
+        {
+            bookId = selectedBook.BookId;
+            title = selectedBook.Title;
+            isbn = selectedBook.Isbn;
+            authorName = selectedBook.AuthorName;
+            category = selectedBook.Category;
+            quantity = selectedBook.Quantity;
+            language = selectedBook.Language;
+        }
+    }
+
+    public static List<Book> selectedBooks = new List<Book>();
+
+
+    private void BookReserve()
+    {
+        if (selectedBooks.Count == 0)
+        {
+            App.Current.MainPage.DisplayAlert("Error", "Cart is Empty", "OK");
+            return;
+        }
+
+        try
+        {
+            selectedBooks = BooksManager.AddMatchingBooks(title, authorName, language, category, isbn, matchingBooks);
+        }
+        catch (DaVinci_Mehtab.Data.EmptyCheckoutException ex)
+        {
+            App.Current.MainPage.DisplayAlert("Invalid", "Please press continue", "Continue");
+        }
+    }
+
+
+
+}
+

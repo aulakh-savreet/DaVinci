@@ -1,0 +1,780 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\EmptyReturnException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Data\\EmptyReturnException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\EmptyCheckoutException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Data\\EmptyCheckoutException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\DatabaseService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Data\\DatabaseService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\Borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Data\\Borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\BooksManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Data\\BooksManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\BookBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Data\\BookBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Data\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\AuthorManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Data\\AuthorManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\Author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Data\\Author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\Books.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Pages\\Books.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\DaVinci.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\DaVinci.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\DaVinci.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\DaVinci.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Main.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Main.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\MauiProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\MauiProgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\MainPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\MainPage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\MainPage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\MainPage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\_Imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\_Imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\App.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Shared\\MainLayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Shared\\MainLayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Shared\\NavMenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Shared\\NavMenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Shared\\NavMenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Shared\\NavMenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Shared\\SurveyPrompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Shared\\SurveyPrompt.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Resources\\Files\\readBooks.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Resources\\Files\\readBooks.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Resources\\Files\\readAuthors.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Resources\\Files\\readAuthors.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Resources\\Files\\books.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Resources\\Files\\books.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Resources\\Files\\authors.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Resources\\Files\\authors.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Resources\\Files\\account.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Resources\\Files\\account.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\ReturnBook.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Pages\\ReturnBook.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\ReturnBook.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Pages\\ReturnBook.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\ReturnBook.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Pages\\ReturnBook.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\Index.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Pages\\Index.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\Index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Pages\\Index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\BorrowBook.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Pages\\BorrowBook.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\BorrowBook.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Pages\\BorrowBook.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\Books.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Pages\\Books.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\LoginManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Data\\LoginManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\PopulateListManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Data\\PopulateListManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\TransactionData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Data\\TransactionData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\TransactionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Data\\TransactionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Data\\Login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\InvalidLoginException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Data\\InvalidLoginException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\GlobalDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Data\\GlobalDirectory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\DatesManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Data\\DatesManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Shared\\MainLayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Archive\\DaVinci\\Shared\\MainLayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmptyReturnException.cs",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\EmptyReturnException.cs",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Data\\EmptyReturnException.cs",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\EmptyReturnException.cs",
+              "RelativeToolTip": "Archive\\DaVinci\\Data\\EmptyReturnException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:59:35.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Data\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\DatabaseService.cs",
+              "RelativeToolTip": "Archive\\DaVinci\\Data\\DatabaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:59:33.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksManager.cs",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\BooksManager.cs",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Data\\BooksManager.cs",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\BooksManager.cs",
+              "RelativeToolTip": "Archive\\DaVinci\\Data\\BooksManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:59:31.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Books.razor",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\Books.razor",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Pages\\Books.razor",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\Books.razor",
+              "RelativeToolTip": "Archive\\DaVinci\\Pages\\Books.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T23:36:27.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\Author.cs",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Data\\Author.cs",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\Author.cs",
+              "RelativeToolTip": "Archive\\DaVinci\\Data\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:35:54.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthorManager.cs",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\AuthorManager.cs",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Data\\AuthorManager.cs",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\AuthorManager.cs",
+              "RelativeToolTip": "Archive\\DaVinci\\Data\\AuthorManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:35:58.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\Book.cs",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Data\\Book.cs",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\Book.cs",
+              "RelativeToolTip": "Archive\\DaVinci\\Data\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:35:57.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmptyCheckoutException.cs",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\EmptyCheckoutException.cs",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Data\\EmptyCheckoutException.cs",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\EmptyCheckoutException.cs",
+              "RelativeToolTip": "Archive\\DaVinci\\Data\\EmptyCheckoutException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:36:01.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DaVinci.csproj",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\DaVinci.csproj",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\DaVinci.csproj",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\DaVinci.csproj",
+              "RelativeToolTip": "Archive\\DaVinci\\DaVinci.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T23:40:05.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\App.xaml.cs",
+              "RelativeToolTip": "Archive\\DaVinci\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:39:55.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\Borrower.cs",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Data\\Borrower.cs",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\Borrower.cs",
+              "RelativeToolTip": "Archive\\DaVinci\\Data\\Borrower.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:36:00.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\_Imports.razor",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\_Imports.razor",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\_Imports.razor",
+              "RelativeToolTip": "Archive\\DaVinci\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T23:39:56.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookBase.cs",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\BookBase.cs",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Data\\BookBase.cs",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\BookBase.cs",
+              "RelativeToolTip": "Archive\\DaVinci\\Data\\BookBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:35:59.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\MainPage.xaml",
+              "RelativeToolTip": "Archive\\DaVinci\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-16T23:39:59.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\MainPage.xaml.cs",
+              "RelativeToolTip": "Archive\\DaVinci\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:39:59.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\MauiProgram.cs",
+              "RelativeToolTip": "Archive\\DaVinci\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:40:01.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Main.razor",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Main.razor",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Main.razor",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Main.razor",
+              "RelativeToolTip": "Archive\\DaVinci\\Main.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T23:40:03.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DaVinci.csproj.user",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\DaVinci.csproj.user",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\DaVinci.csproj.user",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\DaVinci.csproj.user",
+              "RelativeToolTip": "Archive\\DaVinci\\DaVinci.csproj.user",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-04-16T23:40:04.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Shared\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Shared\\MainLayout.razor.css",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Shared\\MainLayout.razor.css",
+              "RelativeToolTip": "Archive\\DaVinci\\Shared\\MainLayout.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-16T23:39:53.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Archive\\DaVinci\\Shared\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T23:39:52.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Shared\\NavMenu.razor.css",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Shared\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Shared\\NavMenu.razor.css",
+              "RelativeToolTip": "Archive\\DaVinci\\Shared\\NavMenu.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-16T23:39:51.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SurveyPrompt.razor",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Shared\\SurveyPrompt.razor",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Shared\\SurveyPrompt.razor",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Shared\\SurveyPrompt.razor",
+              "RelativeToolTip": "Archive\\DaVinci\\Shared\\SurveyPrompt.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T23:39:49.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "account.txt",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Resources\\Files\\account.txt",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Resources\\Files\\account.txt",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Resources\\Files\\account.txt",
+              "RelativeToolTip": "Archive\\DaVinci\\Resources\\Files\\account.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-16T23:39:43.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "authors.txt",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Resources\\Files\\authors.txt",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Resources\\Files\\authors.txt",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Resources\\Files\\authors.txt",
+              "RelativeToolTip": "Archive\\DaVinci\\Resources\\Files\\authors.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-16T23:39:42.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "books.txt",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Resources\\Files\\books.txt",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Resources\\Files\\books.txt",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Resources\\Files\\books.txt",
+              "RelativeToolTip": "Archive\\DaVinci\\Resources\\Files\\books.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-16T23:39:40.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "readBooks.csv",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Resources\\Files\\readBooks.csv",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Resources\\Files\\readBooks.csv",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Resources\\Files\\readBooks.csv",
+              "RelativeToolTip": "Archive\\DaVinci\\Resources\\Files\\readBooks.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-04-16T23:39:37.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "readAuthors.csv",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Resources\\Files\\readAuthors.csv",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Resources\\Files\\readAuthors.csv",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Resources\\Files\\readAuthors.csv",
+              "RelativeToolTip": "Archive\\DaVinci\\Resources\\Files\\readAuthors.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-04-16T23:39:36.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ReturnBook.razor.css",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\ReturnBook.razor.css",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Pages\\ReturnBook.razor.css",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\ReturnBook.razor.css",
+              "RelativeToolTip": "Archive\\DaVinci\\Pages\\ReturnBook.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-16T23:38:52.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReturnBook.razor.cs",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\ReturnBook.razor.cs",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Pages\\ReturnBook.razor.cs",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\ReturnBook.razor.cs",
+              "RelativeToolTip": "Archive\\DaVinci\\Pages\\ReturnBook.razor.cs",
+              "ViewState": "AQIAAFcAAACAMDMzMzMrwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:38:50.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ReturnBook.razor",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\ReturnBook.razor",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Pages\\ReturnBook.razor",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\ReturnBook.razor",
+              "RelativeToolTip": "Archive\\DaVinci\\Pages\\ReturnBook.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T23:37:55.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.razor.css",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\Index.razor.css",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Pages\\Index.razor.css",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\Index.razor.css",
+              "RelativeToolTip": "Archive\\DaVinci\\Pages\\Index.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-16T23:37:54.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\Index.razor",
+              "RelativeToolTip": "Archive\\DaVinci\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T23:37:46.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BorrowBook.razor.css",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\BorrowBook.razor.css",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Pages\\BorrowBook.razor.css",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\BorrowBook.razor.css",
+              "RelativeToolTip": "Archive\\DaVinci\\Pages\\BorrowBook.razor.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-16T23:37:44.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BorrowBook.razor",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\BorrowBook.razor",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Pages\\BorrowBook.razor",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\BorrowBook.razor",
+              "RelativeToolTip": "Archive\\DaVinci\\Pages\\BorrowBook.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T23:37:32.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Books.razor.css",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\Books.razor.css",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Pages\\Books.razor.css",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Pages\\Books.razor.css",
+              "RelativeToolTip": "Archive\\DaVinci\\Pages\\Books.razor.css",
+              "ViewState": "AQIAAEcAAAAAAAAAAAABwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-16T23:37:14.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginManager.cs",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\LoginManager.cs",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Data\\LoginManager.cs",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\LoginManager.cs",
+              "RelativeToolTip": "Archive\\DaVinci\\Data\\LoginManager.cs",
+              "ViewState": "AQIAAC4AAADAAgAAAMAtwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:36:14.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PopulateListManager.cs",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\PopulateListManager.cs",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Data\\PopulateListManager.cs",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\PopulateListManager.cs",
+              "RelativeToolTip": "Archive\\DaVinci\\Data\\PopulateListManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:36:13.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TransactionData.cs",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\TransactionData.cs",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Data\\TransactionData.cs",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\TransactionData.cs",
+              "RelativeToolTip": "Archive\\DaVinci\\Data\\TransactionData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:36:12.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TransactionManager.cs",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\TransactionManager.cs",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Data\\TransactionManager.cs",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\TransactionManager.cs",
+              "RelativeToolTip": "Archive\\DaVinci\\Data\\TransactionManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:36:10.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\Login.cs",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Data\\Login.cs",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\Login.cs",
+              "RelativeToolTip": "Archive\\DaVinci\\Data\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:36:07.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "InvalidLoginException.cs",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\InvalidLoginException.cs",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Data\\InvalidLoginException.cs",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\InvalidLoginException.cs",
+              "RelativeToolTip": "Archive\\DaVinci\\Data\\InvalidLoginException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:36:06.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GlobalDirectory.cs",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\GlobalDirectory.cs",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Data\\GlobalDirectory.cs",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\GlobalDirectory.cs",
+              "RelativeToolTip": "Archive\\DaVinci\\Data\\GlobalDirectory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:36:03.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "DatesManager.cs",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\DatesManager.cs",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Data\\DatesManager.cs",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Data\\DatesManager.cs",
+              "RelativeToolTip": "Archive\\DaVinci\\Data\\DatesManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T23:36:02.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Archive\\DaVinci\\Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\savreetsingh\\source\\repos\\Archive (4)\\Archive\\DaVinci\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Archive\\DaVinci\\Shared\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-16T23:35:47.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
